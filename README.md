@@ -1,2 +1,2 @@
-# baycann-cisnet-crc
-BayCANN for the CISNET CRC models
+# SimCRC model for Chile
+Implementation of the SimCRC model for  Chile
